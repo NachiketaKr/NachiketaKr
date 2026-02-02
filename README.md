@@ -46,6 +46,6 @@ I am currently pursuing Masters degree in computer science in <a href="https://w
   </a>
 </p>
 
-<img hight="225" width="300" alt="GIF" align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtrMjNrM3kwMWVjM2Q1Z2F0OG5mNmZjZDlmOGwzZ21zbmdmZTluaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TuDyQjiZGWwQ8j3DAr/giphy.gif">
+<img hight="225" width="300" alt="GIF" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtrMjNrM3kwMWVjM2Q1Z2F0OG5mNmZjZDlmOGwzZ21zbmdmZTluaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TuDyQjiZGWwQ8j3DAr/giphy.gif">
 
 
