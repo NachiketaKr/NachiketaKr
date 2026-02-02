@@ -13,7 +13,7 @@
       <ul>
         <li>I play Badminton (I love smashes)</li>
         <li>I can play Guitar and I love listening to music (Old is Gold)</li>
-        <li>I play Valorant and I am learning to build video games (often called a <i>noob</i> at both which I respectfully disagree with)</li>
+        <li>I play Valorant and I am learning to build video games</li>
         <li>I started my own <a href="https://www.instagram.com/soctixvlr/">Instagram page</a> and <a href="https://www.youtube.com/@SoctixYT">Youtube channel </a> about Valorant  
         <li>I have played field Hockey during my College days
       </ul>
