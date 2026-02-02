@@ -1,53 +1,8 @@
- # 👋 Hey heyy!! 
+<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZpcDhvZTJyMzlhM3prMW5nMTZnNGYwMjY0ang3cjFlcHlxMjNsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="400"></h2>
 
-I’m a Computer Science graduate student at the **University of Southern California (USC)** with prior industry experience building and maintaining production systems in a large financial institution.
-
-I transitioned into computer science after completing my undergraduate studies in Mechanical Engineering, bringing a strong analytical and problem-solving mindset into software engineering and AI systems.
+Currently a Computer Science Masters student in <a href="https://www.usc.edu/">**@University of Southern California (USC)**</a> with 3 years of experience in <a href="https://www.db.com/">@Deutsche Bank</a>
 
 ---
-
-## 🎓 Education
-
-**Master of Science in Computer Science**  
-University of Southern California (USC)  
-*Jan 2026 - Present*
-
-**Bachelor of Technology in Mechanical Engineering**  
-Indian Institute of Technology (IIT) Delhi  
-*2018 -2022*
-
----
-
-## 📘 Coursework
-- **CSCI 570** – Analysis of Algorithms  
-- **CSCI 455** – Introduction to Programming and System Design  
-
----
-
-## 💼 Experience
-
-### Associate — Deutsche Bank (3 Years)
-
-- Deployed and operated **LLM services on GCP**, including monitoring and incident handling  
-- Built **Python (FastAPI)** backend services for secure internal APIs  
-- Integrated multiple LLMs (LLaMA, Mixtral, Qwen, Gemini series)  
-- Designed an **end-to-end RAG pipeline** using LangChain and Qdrant  
-- Owned production lifecycle: deployment, monitoring, debugging, and feature rollout
-- Developed a **ChatGPT-like internal UI** used by multiple business teams (NFRM, Treasury, MVRM)
-
----
-
-## 🛠 Tech Stack
-
-- **Languages:** Python, Java, MATLAB, C++ 
-- **Backend:** FastAPI, REST APIs, LangChain
-- **Frontend** Streamlit, ReactNative
-- **AI / ML:** LLMs (LLaMA, Mixtral, Qwen, Gemini), RAG, Embeddings  
-- **Databases:** MongoDB, Qdrant, MySQL 
-- **Cloud:** Google Cloud Platform (GCP), Monitoring, Secrets Management  
-- **Tools:** Git, Linux, MLflow
-
-
 
 ## 🏸 Hobbies & Interests
 
