@@ -28,9 +28,9 @@ I am currently pursuing Masters degree in computer science in <a href="https://w
 <li>I started my own <a href="https://www.instagram.com/soctixvlr/">Instagram page</a> and <a href="https://www.youtube.com/@SoctixYT">Youtube channel </a> about Valorant  
 <li>I have played field Hockey during my College days
 
-<h4 align="center">
+<h3 align="center">
   If you found something interesting, or just wanted to say hi, Let's connect 😊
-</h4>
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nachiketa-kr/" target="_blank">
@@ -46,6 +46,6 @@ I am currently pursuing Masters degree in computer science in <a href="https://w
   </a>
 </p>
 
-<img hight="225" width="300" alt="GIF" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtrMjNrM3kwMWVjM2Q1Z2F0OG5mNmZjZDlmOGwzZ21zbmdmZTluaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TuDyQjiZGWwQ8j3DAr/giphy.gif">
+<img hight="225" width="300" alt="GIF" align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtrMjNrM3kwMWVjM2Q1Z2F0OG5mNmZjZDlmOGwzZ21zbmdmZTluaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TuDyQjiZGWwQ8j3DAr/giphy.gif">
 
 
