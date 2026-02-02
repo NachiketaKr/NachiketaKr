@@ -9,10 +9,10 @@ I transitioned into computer science after completing my undergraduate studies i
 ## 🎓 Education
 
 **Master of Science in Computer Science**  
-University of Southern California (USC)    *2026-Present*
+University of Southern California (USC)&nbsp;&nbsp;*2026-Present*
 
 **Bachelor of Technology in Mechanical Engineering**  
-Indian Institute of Techology, Delhi (IITD)     *2018-2022*
+Indian Institute of Techology, Delhi (IITD)&nbsp;&nbsp;*2018-2022*
 
 ---
 
