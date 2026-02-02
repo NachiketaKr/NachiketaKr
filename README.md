@@ -71,4 +71,4 @@ Indian Institute of Technology (IIT) Delhi
 
 - 🏸 Playing badminton  
 - 🎸 Playing guitar and listening to music  
-- 🎮 Playing and building video games (often called a *noob* at both — which I respectfully disagree with)
+- 🎮 Playing and building video games (often called a *noob* at both which I respectfully disagree with)
