@@ -1,11 +1,11 @@
-<h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenN4MzllcmZ2a3IxNjc5ZXpsMWo3YmRzcDl3ZW5zYjVlZWowbHo2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" width="400"></h2>
+<!-- <h2><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V3a2prZzZmZDM2ZTIwaGZjNmNlbml2MmZtdzU3d215OWNnc2twaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HvrcvUCJgeP26ZljGp/giphy.gif" width="400" ></h2> -->
 
-I Am <a href="https://nachiketakumar.com">Nachiketa<a>. Currently a Computer Science Masters student in <a href="https://www.usc.edu/">University of Southern California (USC)</a> with 3 years of experience in <a href="https://www.db.com/">Deutsche Bank</a>
+<h3><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V3a2prZzZmZDM2ZTIwaGZjNmNlbml2MmZtdzU3d215OWNnc2twaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HvrcvUCJgeP26ZljGp/giphy.gif" width="100" ></h3>I Am <a href="https://nachiketakumar.com">Nachiketa </a>. I am currently pursuing Masters degree in computer science in <a href="https://www.usc.edu/">University of Southern California (USC)</a>. I have more than 3 years of experience as a Software Engineer in <a href="https://www.db.com/">Deutsche Bank</a>
 
 ---
 
 ## 🏸 Hobbies & Interests
 
 - 🏸 Playing badminton  
-- 🎸 Playing guitar and listening to music  
-- 🎮 Playing and building video games (often called a *noob* at both which I respectfully disagree with)
+- 🎸 Playing guitar and listening to music 
+- 🎮 I play Valorant (ID: Soctix#1401U) and build video games (often called a *noob* at both which I respectfully disagree with)
