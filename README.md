@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Nachiketa Kumar
 
-<!--
-**NachiketaKr/NachiketaKr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer who enjoys building reliable, scalable systems and turning ideas into real products.
 
-Here are some ideas to get you started:
+### 💻 What I do
+- Backend / Full-stack development  
+- Working with modern web technologies and databases  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning / building
+- Improving system design and backend architecture
+- Exploring new tools and best practices in software engineering
+
+### 📫 How to reach me
+- LinkedIn: https://linkedin.com/in/nachiketa-kr
+- Email: nachiketakumar.iitd@gmail.com
+
+---
+⭐️ Always curious. Always building.
