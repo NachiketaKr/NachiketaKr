@@ -1,4 +1,4 @@
- # 👋 Hey hey!! Thanks for stopping by
+ # 👋 Hey heyy!! 
 
 I’m a Computer Science graduate student at the **University of Southern California (USC)** with prior industry experience building and maintaining production systems in a large financial institution.
 
@@ -9,12 +9,12 @@ I transitioned into computer science after completing my undergraduate studies i
 ## 🎓 Education
 
 **Master of Science in Computer Science**  
-University of Southern California (USC) 
-_*2026 - Present*_
+University of Southern California (USC)  
+*Jan 2026 - Present*
 
 **Bachelor of Technology in Mechanical Engineering**  
-Indian Institute of Techology, Delhi (IITD) 
-_*2018 - 2022*_
+Indian Institute of Technology (IIT) Delhi  
+*2018 -2022*
 
 ---
 
