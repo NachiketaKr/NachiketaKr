@@ -32,9 +32,9 @@ I am currently pursuing Masters degree in computer science in <a href="https://w
 
 <img hight="225" width="300" alt="GIF" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtrMjNrM3kwMWVjM2Q1Z2F0OG5mNmZjZDlmOGwzZ21zbmdmZTluaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TuDyQjiZGWwQ8j3DAr/giphy.gif">
 
-<h3 align="center">
+<h5 align="center">
   If you found something interesting, or just wanted to say hi, you can contact me here 👇
-</h3>
+</h5>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nachiketa-kr/" target="_blank">
