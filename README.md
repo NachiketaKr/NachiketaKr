@@ -30,28 +30,19 @@ Indian Institute of Technology (IIT) Delhi
 
 - Worked on **dbIntelliMatch**, an internal string-matching system using clustering and distance-based similarity scoring  
 - Improved performance and accuracy of large-scale string comparison workflows  
-
 - Deployed, monitored, and maintained **LLM services on Google Cloud Platform (GCP)**  
 - Built backend services in **Python** using **FastAPI** to expose secure APIs for internal users  
 - Managed **cloud deployments, monitoring, and incident handling** for production LLM systems  
-
-- Integrated and migrated across multiple Large Language Models:
-  - LLaMA-2-7B  
-  - Mixtral-8x7B  
-  - Qwen models  
-  - Gemini (1.5 Pro → 2 → 2.5 → 3)  
-
+- Integrated and migrated across multiple Large Language Models -(Llama, Qwen, Mixtral, Gemini)
 - Designed and implemented an **end-to-end Retrieval-Augmented Generation (RAG) pipeline** using **LangChain**:
   - Document ingestion, metadata creation, and chunking  
   - Vector embedding generation and semantic search using **Qdrant** (cosine similarity)  
   - Context-aware response generation with LLMs  
-
 - Developed a **ChatGPT-like internal UI** used by multiple business teams (NFRM, Treasury, MVRM)  
 - Evaluated model outputs using stakeholder-provided datasets and logged experiments using **MLflow**  
-
 - Used **MongoDB** for storing application data and configurations  
 - Managed **secrets, API keys, and access controls** for internal users using **GCP services**  
-- Owned backend lifecycle: feature development, production rollout, monitoring, and debugging  
+- Owned backend lifecycle: feature development, user testing reviews, production rollout, monitoring, and debugging  
 
 ---
 
