@@ -5,5 +5,5 @@
 ## 🏸 Hobbies & Interests
 
 - 🏸 I play Badminton (I love smashes)
-- 🎸 Playing guitar and listening to music (Old is Gold)
+- 🎸 I can play Guitar and I love listening to music (Old is Gold)
 - 🎮 I play Valorant (ID: Soctix#1401U) and build video games (often called a *noob* at both which I respectfully disagree with)
