@@ -1,4 +1,10 @@
-<h3><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V3a2prZzZmZDM2ZTIwaGZjNmNlbml2MmZtdzU3d215OWNnc2twaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HvrcvUCJgeP26ZljGp/giphy.gif" width="100" ></h3>I Am <a href="https://nachiketakumar.com">Nachiketa </a>. I am currently pursuing Masters degree in computer science in <a href="https://www.usc.edu/">University of Southern California (USC)</a>. I have more than 3 years of experience as a Software Engineer in <a href="https://www.db.com/">Deutsche Bank</a>
+<h2> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Nachiketa+Kumar+..." width="100%"> </h2>
+<br>
+
+
+
+
+I am currently pursuing Masters degree in computer science in <a href="https://www.usc.edu/">University of Southern California (USC)</a>. I have more than 3 years of experience as a Software Engineer in <a href="https://www.db.com/">Deutsche Bank</a>
 
 ---
 
