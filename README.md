@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Nachiketa Kumar
+ # 👋 Hi, I’m Nachiketa Kumar
 
 I’m a Computer Science graduate student at the **University of Southern California (USC)** with prior industry experience building and maintaining production systems in a large financial institution.
 
@@ -10,7 +10,7 @@ I transitioned into computer science after completing my undergraduate studies i
 
 **Master of Science in Computer Science**  
 University of Southern California (USC)  
-*Currently pursuing*
+*2026 - Currently pursuing*
 
 **Bachelor of Technology in Mechanical Engineering**  
 Indian Institute of Technology (IIT) Delhi  
