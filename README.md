@@ -57,13 +57,13 @@ Indian Institute of Technology (IIT) Delhi
 
 ## 🛠 Tech Stack
 
-```text
-Languages: Python | Java | C++ | SQL  
-Backend: FastAPI | REST APIs | LangChain  
-AI / ML: LLMs (LLaMA, Mixtral, Qwen, Gemini) | RAG | Embeddings  
-Databases: MongoDB | Qdrant | Relational Databases  
-Cloud & DevOps: Google Cloud Platform (GCP) | Cloud Monitoring | Secrets Management  
-Tools: Git | Linux | MLflow
+- **Languages:** Python, Java, MATLAB, C++, SQL  
+- **Backend:** FastAPI, REST APIs, LangChain
+- **Frontend** Streamlit, ReactNative
+- **AI / ML:** LLMs (LLaMA, Mixtral, Qwen, Gemini), RAG, Embeddings  
+- **Databases:** MongoDB, Qdrant, MySQL 
+- **Cloud:** Google Cloud Platform (GCP), Monitoring, Secrets Management  
+- **Tools:** Git, Linux, MLflow
 
 
 ---
