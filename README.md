@@ -1,4 +1,4 @@
-# 👋 Hi, I’m <Your Name>
+# 👋 Hi, I’m Nachiketa Kumar
 
 I’m a Computer Science graduate student at the **University of Southern California (USC)** with prior industry experience building and maintaining production systems in a large financial institution.
 
