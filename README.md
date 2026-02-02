@@ -30,16 +30,41 @@ Indian Institute of Technology (IIT) Delhi
 
 - Worked on **dbIntelliMatch**, an internal string-matching system using clustering and distance-based similarity scoring  
 - Improved performance and accuracy of large-scale string comparison workflows  
-- Deployed and managed **Large Language Models (LLMs)** on on-prem and cloud infrastructure to meet enterprise compliance needs  
-- Built a **secure backend service** to enable internal LLM usage after third-party tools were restricted  
-- Integrated and migrated across multiple models over time (LLaMA-2-7B, Mixtral-8x7B, Qwen, Gemini series)  
-- Designed and implemented an **end-to-end RAG pipeline**:
+
+- Deployed, monitored, and maintained **LLM services on Google Cloud Platform (GCP)**  
+- Built backend services in **Python** using **FastAPI** to expose secure APIs for internal users  
+- Managed **cloud deployments, monitoring, and incident handling** for production LLM systems  
+
+- Integrated and migrated across multiple Large Language Models:
+  - LLaMA-2-7B  
+  - Mixtral-8x7B  
+  - Qwen models  
+  - Gemini (1.5 Pro → 2 → 2.5 → 3)  
+
+- Designed and implemented an **end-to-end Retrieval-Augmented Generation (RAG) pipeline** using **LangChain**:
   - Document ingestion, metadata creation, and chunking  
-  - Vector storage and semantic search using **Qdrant** (cosine similarity)  
-  - Context-augmented response generation using LLMs  
-- Developed a **ChatGPT-like internal UI** used by multiple business teams  
-- Evaluated model performance with stakeholder-provided datasets and logged experiments using **MLflow**  
-- Owned backend deployment, monitoring, debugging, and continuous feature development in production  
+  - Vector embedding generation and semantic search using **Qdrant** (cosine similarity)  
+  - Context-aware response generation with LLMs  
+
+- Developed a **ChatGPT-like internal UI** used by multiple business teams (NFRM, Treasury, MVRM)  
+- Evaluated model outputs using stakeholder-provided datasets and logged experiments using **MLflow**  
+
+- Used **MongoDB** for storing application data and configurations  
+- Managed **secrets, API keys, and access controls** for internal users using **GCP services**  
+- Owned backend lifecycle: feature development, production rollout, monitoring, and debugging  
+
+---
+
+## 🛠 Tech Stack
+
+```text
+Languages: Python | Java | C++ | SQL  
+Backend: FastAPI | REST APIs | LangChain  
+AI / ML: LLMs (LLaMA, Mixtral, Qwen, Gemini) | RAG | Embeddings  
+Databases: MongoDB | Qdrant | Relational Databases  
+Cloud & DevOps: Google Cloud Platform (GCP) | Cloud Monitoring | Secrets Management  
+Tools: Git | Linux | MLflow
+
 
 ---
 
@@ -51,11 +76,3 @@ Indian Institute of Technology (IIT) Delhi
 
 ---
 
-## 🛠 Tech Stack
-
-```text
-Languages: Python | Java | C++ | SQL  
-AI / ML: LLMs (LLaMA, Mixtral, Qwen, Gemini) | RAG | Embeddings  
-Databases: Qdrant | Relational Databases  
-Backend: REST APIs | Backend Services | Model Serving  
-Tools: Git | Linux | MLflow | Cloud Platforms
