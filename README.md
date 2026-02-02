@@ -2,7 +2,9 @@
 
 <h2 align="center"> About Me </h2> 
 
-I am currently pursuing Masters degree in computer science in <a href="https://www.usc.edu/">University of Southern California (USC)</a>. I have more than 3 years of experience as a Software Engineer in <a href="https://www.db.com/">Deutsche Bank</a>. Visit my personal website <a href="https://nachiketakumar.com"> here </a>
+- Currently pursuing Masters degree in computer science in <a href="https://www.usc.edu/">University of Southern California (USC)</a>.
+- More than 3 years of experience as a Software Engineer in <a href="https://www.db.com/">Deutsche Bank</a>.
+- Visit my personal website <a href="https://nachiketakumar.com"> here </a>
 ## <h2 align="center"> Fun Facts not in my Resume</h2> 
 
 <table>
