@@ -1,13 +1,15 @@
 <h2> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Nachiketa+Kumar" width="100%"> </h2>
 
 <h2 align="center"> About Me </h2> 
+<p align="center">
+  <li>Currently pursuing Masters degree in computer science in <a href="https://www.usc.edu/">University of Southern California (USC)</a>.
+  <li>More than 3 years of experience as a Software Engineer in <a href="https://www.db.com/">Deutsche Bank</a>.
+  <li>Visit my personal website <a href="https://nachiketakumar.com"> here </a>
+</p>
 
-- Currently pursuing Masters degree in computer science in <a href="https://www.usc.edu/">University of Southern California (USC)</a>.
-- More than 3 years of experience as a Software Engineer in <a href="https://www.db.com/">Deutsche Bank</a>.
-- Visit my personal website <a href="https://nachiketakumar.com"> here </a>
-## <h2 align="center"> Fun Facts not in my Resume</h2> 
+<h2 align="center"> Fun Facts not in my Resume</h2> 
 
-<table>
+<table align="center">
   <tr>
     <td>
       <ul>
