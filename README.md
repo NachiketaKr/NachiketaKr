@@ -1,11 +1,22 @@
 <h2> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Nachiketa+Kumar" width="100%"> </h2>
 
 <h2 align="center"> About Me </h2> 
-<p align="center">
-  <li>Currently pursuing Masters degree in computer science in <a href="https://www.usc.edu/">University of Southern California (USC)</a>.
-  <li>More than 3 years of experience as a Software Engineer in <a href="https://www.db.com/">Deutsche Bank</a>.
-  <li>Visit my personal website <a href="https://nachiketakumar.com"> here </a>
-</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <ul>
+        <li>Currently pursuing Masters degree in computer science in <a href="https://www.usc.edu/">University of Southern California (USC)</a>.</li>
+        <li>More than 3 years of industry experience as a Software Engineer in <a href="https://www.db.com/">Deutsche Bank</a>.</li>
+        <li>Visit my personal website <a href="https://nachiketakumar.com"> here </a></li>
+      </ul>
+    </td>
+    <td >
+      <img align="right" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQ5aWFmNXJ5c3VwcTliOGZ3bXlia2RnbzB4NGZycmdhbDc2dTFlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif" />
+    </td>
+  </tr>
+</table>
+
 
 <h2 align="center"> Fun Facts not in my Resume</h2> 
 
