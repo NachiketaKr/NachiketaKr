@@ -16,10 +16,7 @@
     </td>
   </tr>
 </table>
-
-
 <h2 align="center"> Fun Facts not in my Resume</h2> 
-
 <table align="center">
   <tr>
     <td>
@@ -36,8 +33,6 @@
     </td>
   </tr>
 </table>
-
-
 <h3 align="center">If you found something interesting, or just wanted to say Hi, Let's connect 😊</h3>
 <table align="center">
   <tr>
@@ -63,7 +58,6 @@
     />
     </td>
   </tr>
-  
 </table>
 
 
